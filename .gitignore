@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# Log files
+*.log
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Coverage reports
+htmlcov/
+*.cover
+*.coverage
+*.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Test results
+*.pytest_cache/
+junit-*.xml
+test-results/
+
+# Miscellaneous
+*.swp
+*.bak
+*.tmp
