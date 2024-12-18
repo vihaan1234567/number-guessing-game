@@ -11,7 +11,7 @@ A simple number guessing game built with Python and tkinter.
 ## Features:
 - Graphical User Interface (GUI)
 - History of previous games with guesses and attempts
-- Difficulty levels (not implemented, but you can extend it)
+- Difficulty levels (now implemented)
 - Displays the number of attempts
 
 ## How to Run:
